@@ -1,2 +1,6 @@
 ---
 lucky-word: Irish23
+eureka
+  client
+    serviceUrl
+      defaultZone=http://localhost:8010/eureka/
